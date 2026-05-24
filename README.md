@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,1a1a2e,16213e,0D1117&height=140&section=header&text=Muhammad%20Hamza&fontColor=00FFEC&fontSize=40&fontAlignY=65&desc=Python%20%7C%20JavaScript%20%7C%20AI%20Agents&descAlignY=85&descColor=888888)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460,1a1a2e&height=160&section=header&text=Muhammad%20Hamza&fontColor=00FFEC&fontSize=42&fontAlignY=65&desc=Python%20%7C%20JavaScript%20%7C%20AI%20Agents&descAlignY=82&descColor=8892b0)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00FFEC&center=true&vCenter=true&width=480&lines=self-taught+since+2023;building+real+things+while+learning;currently+exploring+AI+agents;open+to+collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=00FFEC&center=true&vCenter=true&width=480&lines=self-taught+since+2023;building+real+things+while+learning;currently+exploring+AI+agents;open+to+collaboration" alt="Typing SVG" />
 
 <br/>
 
@@ -14,8 +14,6 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
 ### `> whoami`
 
 I'm **Hamza** — a self-taught developer from **Pakistan 🇵🇰**
@@ -26,8 +24,6 @@ I'm not a senior. I'm not pretending to be one.
 What I am is **consistent, curious, and always shipping.**
 
 Looking for people to **build with** — not just talk about building.
-
-<br clear="right"/>
 
 ---
 
@@ -88,12 +84,8 @@ Looking for people to **build with** — not just talk about building.
 ### `> stats.display`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-stack404&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-stack404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-stack404&langs_count=6&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-stack404&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 ---
@@ -116,9 +108,9 @@ If you're building something interesting — reach out.
 ---
 
 <div align="center">
-  <img src="https://github-readme-snake-svg.herokuapp.com/api/github-contribution-grid-snake.svg?color_snake=#00FFEC&color_dots=#1a1a2e,#16213e,#0f3460,#00FFEC" alt="snake" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-stack404&theme=tokyo-night&hide_border=true&area=true&area_color=00ffec&color=00ffec&line=00ffec&point=ffffff" width="95%" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,1a1a2e,16213e,0D1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460,1a1a2e&height=120&section=footer)
 
 <!-- Last updated: May 2026 -->
